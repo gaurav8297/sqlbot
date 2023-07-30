@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 requests = "*"
+sortedcontainers = "*"
+scikit-learn = "*"
+torch = "*"
+torchvision = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 
